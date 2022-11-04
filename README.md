@@ -13,7 +13,7 @@
 
 ### Association
 
-- has_many :coment
+- has_many :comment
 - has_many :prototypes
 
 
